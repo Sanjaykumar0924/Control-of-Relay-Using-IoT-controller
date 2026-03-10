@@ -64,10 +64,10 @@ void loop() {
 ## OUTPUT:
 
 <img width="1336" height="895" alt="Screenshot 2026-03-10 112055" src="https://github.com/user-attachments/assets/e4c9c964-f943-46b7-b53f-f28144984551" />
-## LAMP ON
+# LAMP ON
 
 <img width="1342" height="904" alt="Screenshot 2026-03-10 112156" src="https://github.com/user-attachments/assets/67aeb146-d2ef-423e-b4cc-4cbdb32c86ea" />
-## LAMP OFF
+# LAMP OFF
 
 ## RESULT:
 
